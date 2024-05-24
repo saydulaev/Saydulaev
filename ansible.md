@@ -1,0 +1,1 @@
+- [openssl](https://github.com/saydulaev/ansible-role-openssl)
